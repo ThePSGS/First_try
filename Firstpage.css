@@ -1,0 +1,22 @@
+body{
+background-color:black;
+}
+hr.new1{
+    border-top: 1px white;
+    position: relative;
+}
+#box{
+ 
+     position: absolute;
+       /* margin-bottom: 200px;*/
+        margin-left: 85px;
+        width: 85%;
+  height: 850px;
+}
+#caption{
+    position: relative;
+  left: 10px;
+  top: 150px;
+  z-index: -1;
+ color:bisque
+}
