@@ -1,0 +1,45 @@
+#heading{
+    font-size: 50px;
+    text-align:center;
+}
+#firstp,#secondp{
+    text-align:center;
+    text-decoration: solid;
+    font-size: 20px;
+    text-emphasis: strong;
+}
+#form{
+    margin: 0px;
+    padding: 0px;
+    border-bottom: 6px;
+    text-align:center;
+}
+#name,#email,#number{
+font-size: 20px;
+border: 10px;
+border-bottom: 2px solid;
+padding: 20px;
+}
+
+#message{
+    padding :10px;
+    text-align: left;
+    height: 265px;
+    width: 265px;
+    border: 10px;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+}
+#submit{
+    color: antiquewhite;
+    padding:20px 100px;
+    background-color:black;
+    font-size :20px; 
+    border-radius: 40px;
+    }
+    #submit:hover{
+        color:black;
+        background-color: aliceblue;
+    }
