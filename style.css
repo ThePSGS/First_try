@@ -7,6 +7,9 @@
     background-color: black;
     color: white;
     justify-content: center;
+    width: 100%;
+    position: fixed;
+
 
 }
 li{
@@ -19,8 +22,21 @@ marquee{
     color: white;
     background-color: black;
     padding: 15px;
+    position: relative;
+    margin-top:68px ;
 }
-hr{
-    border-width: 1px;
-    border-color: gray;
+
+#menclothing{
+    width: 100%;
+    text-align: center;
+    padding: 50px;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+.grid-container > div{
+    height: 450px;
+    
+    margin: 10px;
 }
