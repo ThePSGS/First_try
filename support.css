@@ -60,4 +60,79 @@ margin: 0% auto;
     font-size :20px; 
     border-radius: 20px;
 }
+#btn3{
+    left:20%;
+    position:absolute;
+    padding:15px 100px;
+    background-color: white;
+    font-weight: 900;
+}
+#btn3:hover{
+    background-color:black;
+    color:white;
+}
+#btn4{
+    top:1008px;
+    left:40%;
+    position:absolute;
+    padding:15px 100px;
+    background-color: white;
+    font-weight: 900;
+}
+#btn4:hover{
+    background-color:black;
+    color:white;
+}
+#btn5{
+    top:1008px;
+    left:61%;
+    position:absolute;
+    padding:15px 100px;
+    background-color: white;
+    font-weight: 900;
+}
+#btn5:hover{
+    background-color:black;
+    color:white;
+}
+#btn6{
+    top:1075px;
+    left:20%;
+    position:absolute;
+    padding:15px 23px;
+    background-color: white;
+    font-weight: 900;
+}
+#btn6:hover{
+    background-color:black;
+    color:white;
+}
+#btn7{
+    top:1075px;
+    left:40%;
+    position:absolute;
+    padding:15px 100px;
+    background-color: white;
+    font-weight: 900;
+}
+#btn7:hover{
+    background-color:black;
+    color:white;
+}
+#btn8{
+    top:1075px;
+    left:61%;
+    position:absolute;
+    padding:15px 4px;
+    background-color: white;
+    font-weight: 900;
+
+}
+#btn8:hover{
+    background-color:black;
+    color:white;
+    animation-delay: 2sec;
+
+}
+
   
